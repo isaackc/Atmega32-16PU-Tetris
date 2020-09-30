@@ -1,3 +1,5 @@
 This was just a project to learn about how to use LED matrices, shift registers, and interrupts in the Atmega 32-16PU. 
 
 Attached is a hand-drawn wiring diagram.
+
+If you want to make this for yourself make sure to change USB communication device in the makefile if it doesn't match. Mine was ttyACM0.
